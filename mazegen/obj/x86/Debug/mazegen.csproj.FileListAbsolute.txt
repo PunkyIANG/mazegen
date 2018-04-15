@@ -1,0 +1,4 @@
+E:\Users\User\Documents\Projects\mazegen\mazegen\bin\Debug\mazegen.exe
+E:\Users\User\Documents\Projects\mazegen\mazegen\bin\Debug\mazegen.pdb
+E:\Users\User\Documents\Projects\mazegen\mazegen\obj\x86\Debug\mazegen.exe
+E:\Users\User\Documents\Projects\mazegen\mazegen\obj\x86\Debug\mazegen.pdb
